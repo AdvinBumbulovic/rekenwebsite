@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>Rekenwebsite</title>
+    <link rel="stylesheet" href="desplinter.css">
+</head>
+<div class="titel">
+    <h1> A-wire
+        <div class="splinter"><img src="logo.jpg" alt= "splinter" title="De splinter" width="99" height="99" /></div>
+    </h1>
+
+    <div class="menu">
+        <p>
+            <a href="index.php">Home</a> |
+            <A HREF="kiesjeklas+.php">+ en -</A> |
+            <A HREF="">x</A> |
+            <A HREF="">:</A> |
+            <A HREF="">Oefentoets</A> |
+            <A HREF="">Contact</A> 
+        </p>
+    </div>
+</div>
+<div class="container">
+    <br />
+    <A HREF="">Groep 4</A> <br /><br />
+    <A HREF="">Groep 5</A> <br /><br />
+    <A HREF="">Groep 6</A> <br />
+
+
+    </p>
+</div>
+</div>
+</body>
+</html>
